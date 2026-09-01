@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
