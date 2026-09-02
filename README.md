@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
