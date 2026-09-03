@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -41,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
