@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0507-perfect-number](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0507-perfect-number) |
@@ -56,8 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
