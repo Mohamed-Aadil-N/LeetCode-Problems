@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0015-3sum) |
+| [0791-custom-sort-string](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0091-decode-ways) |
+| [0791-custom-sort-string](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0791-custom-sort-string](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 <!---LeetCode Topics End-->
