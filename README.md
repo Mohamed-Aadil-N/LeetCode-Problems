@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0791-custom-sort-string](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0791-custom-sort-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
 | ------- |
