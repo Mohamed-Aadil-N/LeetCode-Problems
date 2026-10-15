@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -84,9 +86,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2352-equal-row-and-column-pairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0791-custom-sort-string](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0791-custom-sort-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
