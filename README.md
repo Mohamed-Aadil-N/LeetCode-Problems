@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 ## Math
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0091-decode-ways) |
 ## Recursion
 |  |
 | ------- |
