@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/2352-equal-row-and-column-pairs) |
@@ -91,6 +92,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0791-custom-sort-string](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/2352-equal-row-and-column-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
