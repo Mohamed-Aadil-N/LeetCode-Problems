@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -124,4 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
