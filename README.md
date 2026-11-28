@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0561-array-partition) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0791-custom-sort-string](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0791-custom-sort-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0791-custom-sort-string](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Union-Find
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
@@ -143,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
