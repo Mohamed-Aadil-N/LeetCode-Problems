@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohamed-Aadil-N/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
